@@ -1,10 +1,10 @@
--Difference between ifconfig &ipconfig?
--What is data encapsulation in networking?
--What are black box and white box testing?
--How is encryption is different from hashing?
--What is a three way handshake?
--Explain SSL Encryption.
--Explain data leakage.
--Explain SSL & TLS
--What are salted hashes?
--Difference between VPN & VLAN
+- Difference between ifconfig &ipconfig?
+- What is data encapsulation in networking?
+- What are black box and white box testing?
+- How is encryption is different from hashing?
+- What is a three way handshake?
+- Explain SSL Encryption.
+- Explain data leakage.
+- Explain SSL & TLS
+- What are salted hashes?
+- Difference between VPN & VLAN
