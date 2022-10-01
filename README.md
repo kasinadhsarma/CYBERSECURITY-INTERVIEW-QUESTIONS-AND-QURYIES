@@ -18,3 +18,7 @@ COME AND JOIN THE HACK TOBER FEST AND PLEASE DO UPDATED CYBER SECURITY Discuss a
 - for learn virus built with explanation and types of virus
   ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/virus
 
+- for crypto encryptions and decryptions
+  ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/crypto%20encryption%20and%20decryption
+  
+- write the questions or quries mention before ( - or #)
