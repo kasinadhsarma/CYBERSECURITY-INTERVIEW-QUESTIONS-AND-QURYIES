@@ -20,3 +20,26 @@
 - Explain SSL & TLS
 - What are salted hashes?
 - Difference between VPN & VLAN
+
+# VAPT Interview Questions
+
+- What do you mean by security testing?
+- What do you mean by vulnerability?
+- What do you mean by penetration testing?
+- What are the two prevalent techniques used to safeguard a password file?
+- What are the major attributes of security testing?
+- What is the importance of VAPT?
+- As a developer, what will you do to rectify existing cross-site scripting vulnerability in the code that the application security auditors have reported?
+- What do you know about WSDL and SOAP?
+
+## DevOps Interview Questions
+
+- What do you know about DevOps?
+- What is the role of AWS in DevOps?
+- How is DevOps different from agile methodology?
+- What are the different phases in DevOps?
+- How will you approach a project that needs to implement DevOps?
+- What is the difference between continuous delivery and continuous deployment?
+- What is the role of configuration management in DevOps?
+- What are the fundamental differences between DevOps & Agile?
+
