@@ -43,3 +43,22 @@
 - What is the role of configuration management in DevOps?
 - What are the fundamental differences between DevOps & Agile?
 
+# Cyber security analyst
+- What is the difference between Symmetric and Asymmetric encryption?
+- What is the difference between IDS and IPS?
+- What are the response codes that can be received from a Web Application?
+- What steps will you take to secure a server?
+- How can identity theft be prevented?
+- How would you reset a password-protected BIOS configuration?
+- How often should you perform Patch management?
+- What are salted hashes?
+
+## Application security engineer
+- What is Intrusion Detection?
+- List the attributes of Security Testing? 
+- What are the SSL connections and an SSL session?
+- List the full names of abbreviations related to Software security?
+- List down some factors that can cause vulnerabilities?
+- List the parameters that define an SSL session connection?
+- What are the three classes of intruders?
+- List the parameters that define an SSL session state?
