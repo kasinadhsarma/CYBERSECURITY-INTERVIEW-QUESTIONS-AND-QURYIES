@@ -1,4 +1,5 @@
 - what is cybersecurity
+- What are the common cyberattacks?
 - Difference between ifconfig &ipconfig?
 - What is data encapsulation in networking?
 - What are black box and white box testing?
@@ -12,6 +13,8 @@
   - If it is trustworthy, the browser requests to establish an encrypted connection with the web server. 
   - The web server sends the acknowledgment to start an SSL encrypted connection. 
   - SSL communication starts to take place between the browser and the web server.
+- What is a firewall? Mention its uses.
+- What is the CIA triad?
 
 - Explain data leakage.
 - Explain SSL & TLS
