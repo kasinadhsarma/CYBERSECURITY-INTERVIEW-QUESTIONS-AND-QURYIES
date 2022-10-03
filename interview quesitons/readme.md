@@ -1,7 +1,9 @@
-- what is cybersecurity
+- what is cybersecurity? <br>
+  Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes. Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative
 - What are the common cyberattacks?
 - Difference between ifconfig &ipconfig?
-- What is data encapsulation in networking?
+- What is data encapsulation in networking? <br>
+  Encapsulation is the process of adding additional information when data is traveling in OSI or TCP/IP model. The additional information has been added on sender's      side, starting from Application layer to Physical layer
 - What are black box and white box testing?
 - How is encryption is different from hashing?
 - What is a three way handshake?
