@@ -1,24 +1,28 @@
-# CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES
-COME AND JOIN THE HACK TOBER FEST AND PLEASE DO UPDATED CYBER SECURITY Discuss about that go to folders and update on that folder we explore knowldge on cybersecurity more
+# CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QUERIES
+COME AND JOIN THE HACKTOBERFEST AND PLEASE DO UPDATED CYBER SECURITY.
+
+Come and join the HACKTOBERFEST event by making your contribution in various cybersecurity topics!
+ 
+To contribute to this project go to the specific folders and create your update on that folder. Let us explore our knowledge on cybersecurity!! 
 
 ![image](https://user-images.githubusercontent.com/81065703/193424293-5af29b59-46be-4b2b-8c4a-72d2fd6b85c6.png)
 
-- for interview questions to update 
+- For interview questions 
    ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/interview%20quesitons
 
-- for exploring own codes
+- For exploring own codes
   ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/code
   
-- for exploring projects 
+- For exploring projects 
   ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/projects
 
-- for exploring tools 
+- For exploring tools 
   ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/tools
 
-- for learn virus built with explanation and types of virus
+- For learning about virus built with explanation and types of virus
   ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/virus
 
-- for crypto encryptions and decryptions
+- For crypto encryptions and decryptions
   ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/crypto%20encryption%20and%20decryption
   
-- write the questions or quries mention before ( - or #)
+- Write the questions or queries mention before ( - or #)
