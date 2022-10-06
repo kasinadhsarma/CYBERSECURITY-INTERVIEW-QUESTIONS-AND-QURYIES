@@ -64,3 +64,13 @@
 - List the parameters that define an SSL session connection?
 - What are the three classes of intruders?
 - List the parameters that define an SSL session state?
+
+# Network security engineer
+- Why are internal threats usually more effective than external threats?
+- Which is a more secure project: open-source or proprietary?
+- How do you deal with “Man In The Middle” attacks?
+- Explain the difference between a white and black hat hacker.
+- What are the best defenses against a brute force login attack?
+- What do you use on your own personal network?
+- How do you define risk, vulnerability, and threat, in the context of network security?
+- What are the possible results of an attack on a computer network?
