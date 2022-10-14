@@ -54,16 +54,23 @@
   VAPT helps to protect your organisation by providing visibility of security weaknesses and guidance to address them.
 - As a developer, what will you do to rectify existing cross-site scripting vulnerability in the code that the application security auditors have reported?
 - What do you know about WSDL and SOAP?
+ SOAP (Simple Object Access Protocol) is a message protocol that enables the distributed elements of an application to communicate. SOAP can be carried over a variety   of standard protocols, including the web-related Hypertext Transfer Protocol (HTTP).
 
 ## DevOps Interview Questions
 
 - What do you know about DevOps?
+  DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high            velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 - What is the role of AWS in DevOps?
+  AWS provides services that help you practice DevOps at your company and that are built first for use with AWS. These tools automate manual tasks, help teams manage      complex environments at scale, and keep engineers in control of the high velocity that is enabled by DevOps.
 - How is DevOps different from agile methodology?
+   DevOps is a culture, fostering collaboration amongst all participants involved in the development and maintenance of software. Agile can be described as a             development methodology designed to maintain productivity and drive releases with the common reality of changing needs.
 - What are the different phases in DevOps?
+ DevOps follows certain processes that include code, build, test, release, deploy, operate, monitor and plan. DevOps lifecycle follows various phases such as   continuous development, integration, testing, continuous monitoring, and continuous feedback.
 - How will you approach a project that needs to implement DevOps?
 - What is the difference between continuous delivery and continuous deployment?
+  Continuous Delivery (CD): CI + the entire software release process is automated, it may be composed of multiple stages, and deployment to production is manual.         Continuous Deployment: CI + CD + fully automated deployment to production.
 - What is the role of configuration management in DevOps?
+  Configuration management is important because it enables the ability to scale infrastructure and software systems without having to correspondingly scale                 administrative staff to manage those systems. This can make it possible to scale where it previously wasn't feasible to do so.
 - What are the fundamental differences between DevOps & Agile?
 
 # Cyber security analyst
