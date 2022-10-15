@@ -75,13 +75,22 @@
 
 # Cyber security analyst
 - What is the difference between Symmetric and Asymmetric encryption?
+ Symmetric encryption uses a single key that needs to be shared among the people who need to receive the message while asymmetric encryption uses a pair of public key  and a private key to encrypt and decrypt messages when communicating
 - What is the difference between IDS and IPS?
+An intrusion detection system (IDS) is defined as a solution that monitors network events and analyzes them to detect security incidents and imminent threats. An intrusion prevention system (IPS) is defined as a solution that performs intrusion detection and then goes one step ahead and prevents any detected threats.
 - What are the response codes that can be received from a Web Application?
 - What steps will you take to secure a server?
+Server Security in 3 Steps
+Step 1 – Shut Down Access. As IT admins install appropriate software packages and applications onto servers, invariably ports are opened and services enabled. ...
+Step 2 – Patch Your Servers. ...
+Step 3 – Tightly Control User Access.
+  
 - How can identity theft be prevented?
+One of the most effective ways to protect against identity theft is to monitor your credit reports and billing statements so you can spot and report unauthorized activity
 - How would you reset a password-protected BIOS configuration?
 - How often should you perform Patch management?
 - What are salted hashes?
+Salting hashes sounds like one of the steps of a hash browns recipe, but in cryptography, the expression refers to adding random data to the input of a hash function to guarantee a unique output, the hash, even when the inputs are the same
 
 ## Application security engineer
 - What is Intrusion Detection?
