@@ -29,9 +29,14 @@
 - What is the CIA triad?
 
 - Explain data leakage.
+  The unauthorized transmission of data from an organization to any external source is known as data leakage. This data can be leaked physically or electronically via   hard drives, USB devices, mobile phones, etc., and could be exposed publicly or fall into the hands of a cyber criminal.
 - Explain SSL & TLS
+  SSL stands for Secure Socket Layer while TLS stands for Transport Layer Security. Both Secure Socket Layer and Transport Layer Security are the protocols used to     provide security between web browsers and web servers.
 - What are salted hashes?
+ Salting hashes sounds like one of the steps of a hash browns recipe, but in cryptography, the expression refers to adding random data to the input of a hash function   to guarantee a unique output, the hash, even when the inputs are the same.
 - Difference between VPN & VLAN
+ VPN:A VPN is a virtual private network that utilizes a public network (usually the Internet) to connect remote sites or users together. A typical VPN network has a   main local area network (LAN) at the corporate headquarters of a company, other LANs at remote offices or facilities, and individual users that connect from out in the  field.
+ VLAN:A VLAN is a group of networking devices configured to communicate on one or more LANs as if they were attached to the same wire, but actually they are located on a number of different LAN segments. VLAN networks are based on logical instead of physical connections with great flexibility. A VLAN network defines broadcast domains in a Layer 2 network.
 
 # VAPT Interview Questions
 
