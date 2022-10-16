@@ -83,3 +83,4 @@ DISADVANTAGES:
 *An interesting weakness is the fact that a digraph in the ciphertext (AB) and it’s reverse (BA) will have corresponding plaintexts like UR and RU (and also ciphertext UR and RU will correspond to plaintext AB and BA, i.e. the substitution is self-inverse). That can easily be exploited with the aid of frequency analysis, if the language of the plaintext is known. 
  
 *Another disadvantage is that playfair cipher is a symmetric cipher thus same key is used for both encryption and decryption. 
+
