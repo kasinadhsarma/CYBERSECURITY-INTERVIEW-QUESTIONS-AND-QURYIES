@@ -26,4 +26,5 @@ To contribute to this project go to the specific folders and create your update 
   ### https://github.com/kasinadhsarma/CYBERSECURITY-INTERVIEW-QUESTIONS-AND-QURYIES/tree/main/crypto%20encryption%20and%20decryption
   
 - Write the questions or queries mention before ( - or #)
+
 -> operartion x coming soon... to the organization 
