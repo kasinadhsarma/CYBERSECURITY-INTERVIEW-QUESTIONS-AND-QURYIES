@@ -107,6 +107,69 @@ Salting hashes sounds like one of the steps of a hash browns recipe, but in cryp
 - What are the three classes of intruders?
 - List the parameters that define an SSL session state?
 
+
+1. **Intrusion Detection:**
+   Intrusion Detection is a security mechanism used to identify unauthorized access or activities within a computer system or network. It involves monitoring and analyzing system or network events to detect patterns or behaviors that may indicate a security breach or unauthorized access. Intrusion Detection Systems (IDS) can be network-based, host-based, or a combination of both.
+
+2. **Attributes of Security Testing:**
+   Security testing is a crucial part of application security. The attributes of security testing include:
+   - **Confidentiality:** Ensuring that sensitive data is not disclosed to unauthorized individuals or systems.
+   - **Integrity:** Verifying the accuracy and reliability of data and resources.
+   - **Availability:** Ensuring that systems and data are available and accessible to authorized users when needed.
+   - **Authentication:** Confirming the identity of users and entities.
+   - **Authorization:** Granting or denying access to resources based on user privileges.
+   - **Non-repudiation:** Ensuring that actions or transactions cannot be denied by the parties involved.
+   - **Accountability:** Keeping records of activities for auditing and traceability.
+
+3. **SSL Connections and SSL Sessions:**
+   - **SSL (Secure Sockets Layer)** is a cryptographic protocol used to secure communication over networks. An SSL connection is established between a client and a server to encrypt data transmission.
+   - An **SSL session** refers to the set of cryptographic parameters and keys used for a secure connection. It is created during the SSL handshake and can be reused to save resources and reduce overhead in subsequent connections.
+
+4. **Full Names of Abbreviations Related to Software Security:**
+   - CWE: Common Weakness Enumeration
+   - CVE: Common Vulnerabilities and Exposures
+   - XSS: Cross-Site Scripting
+   - CSRF: Cross-Site Request Forgery
+   - SQLi: SQL Injection
+   - OSINT: Open Source Intelligence
+   - DDoS: Distributed Denial of Service
+   - WAF: Web Application Firewall
+   - IDS: Intrusion Detection System
+   - IPS: Intrusion Prevention System
+
+5. **Factors that Can Cause Vulnerabilities:**
+   Several factors can contribute to software vulnerabilities, including:
+   - Inadequate input validation.
+   - Poor coding practices.
+   - Misconfigured security settings.
+   - Weak or default passwords.
+   - Lack of timely security patches and updates.
+   - Third-party libraries with vulnerabilities.
+   - Inadequate access control.
+   - Social engineering attacks.
+   - Insufficient security testing.
+
+6. **Parameters that Define an SSL Session Connection:**
+   - **Session ID:** A unique identifier for the SSL session.
+   - **Session Tickets:** Used for session resumption.
+   - **Cipher Suite:** The encryption algorithm and key exchange method.
+   - **Server Certificate:** Includes the server's public key.
+   - **Client Certificate (optional):** If client authentication is used.
+   - **Session Key:** The symmetric encryption key.
+
+7. **Three Classes of Intruders:**
+   - **Script Kiddies:** Individuals with limited technical skills who use readily available tools and scripts to exploit vulnerabilities.
+   - **Hacktivists:** Motivated by social, political, or environmental causes, they target organizations or individuals to promote their agenda.
+   - **Cybercriminals:** Engage in illegal activities for financial gain, such as data theft, fraud, or selling stolen information.
+
+8. **Parameters that Define an SSL Session State:**
+   - **Session ID:** A unique identifier for the session.
+   - **Session Tickets:** Information needed for session resumption.
+   - **Cipher Suite:** The chosen encryption algorithm and key exchange method.
+   - **Session Key:** The shared symmetric encryption key.
+   - **Client and Server Random Values:** Random data used in the SSL handshake.
+   - **Compression Method:** Specifies data compression if used.
+
 # Network security engineer
 - Why are internal threats usually more effective than external threats?
 - Which is a more secure project: open-source or proprietary?
