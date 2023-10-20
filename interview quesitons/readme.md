@@ -171,11 +171,42 @@ Salting hashes sounds like one of the steps of a hash browns recipe, but in cryp
    - **Compression Method:** Specifies data compression if used.
 
 # Network security engineer
-- Why are internal threats usually more effective than external threats?
-- Which is a more secure project: open-source or proprietary?
-- How do you deal with “Man In The Middle” attacks?
-- Explain the difference between a white and black hat hacker.
-- What are the best defenses against a brute force login attack?
-- What do you use on your own personal network?
-- How do you define risk, vulnerability, and threat, in the context of network security?
-- What are the possible results of an attack on a computer network?
+1. **Internal Threats vs. External Threats:**
+   Internal threats are often considered more effective than external threats because individuals with inside knowledge of an organization's systems, processes, and vulnerabilities can exploit them more easily. Insiders may have legitimate access to sensitive information and systems, making it challenging to detect malicious activities. External threats, on the other hand, typically involve attackers attempting to breach a network from the outside, which may be subject to various security measures.
+
+2. **Open-Source vs. Proprietary Security:**
+   The security of a project, whether open-source or proprietary, depends on various factors. Open-source projects benefit from community scrutiny, allowing many eyes to review and identify potential vulnerabilities. However, they may also be more susceptible to exploitation if not properly maintained. Proprietary projects have the advantage of controlled access, but their security relies on the diligence of a closed development team. The security of either depends on how well-managed and updated they are.
+
+3. **Dealing with Man-in-the-Middle Attacks:**
+   To counteract Man-in-the-Middle attacks, encryption is crucial. This involves using protocols like HTTPS, which encrypts data in transit, making it difficult for an attacker to intercept and manipulate. Additionally, implementing secure communication channels, such as Virtual Private Networks (VPNs), can help protect against these types of attacks.
+
+4. **White Hat vs. Black Hat Hackers:**
+   - **White Hat Hacker:** A white hat hacker is an ethical hacker who uses their skills to help organizations identify and fix security vulnerabilities. They work to strengthen systems and protect against cyber threats.
+   - **Black Hat Hacker:** A black hat hacker is a malicious hacker who exploits vulnerabilities for personal gain, often engaging in unauthorized activities such as stealing data, spreading malware, or disrupting systems.
+
+5. **Defenses Against Brute Force Login Attacks:**
+   - **Account Lockout Policies:** Implement policies that lock out an account after a certain number of failed login attempts.
+   - **Complex Passwords:** Enforce the use of strong, complex passwords.
+   - **Multi-Factor Authentication (MFA):** Require an additional form of verification beyond a password.
+   - **Rate Limiting:** Implement controls to limit the number of login attempts within a specific timeframe.
+
+6. **Personal Network Security:**
+   - Use strong, unique passwords for each account.
+   - Employ a firewall to control incoming and outgoing network traffic.
+   - Keep software and operating systems up-to-date with the latest security patches.
+   - Utilize a reputable antivirus and anti-malware solution.
+   - Implement strong encryption for wireless networks.
+
+7. **Risk, Vulnerability, and Threat in Network Security:**
+   - **Risk:** The potential for harm or loss resulting from a threat exploiting a vulnerability. It involves assessing the likelihood and impact of potential incidents.
+   - **Vulnerability:** A weakness in a system that could be exploited by a threat to cause harm. Vulnerabilities can be related to software, hardware, processes, or human factors.
+   - **Threat:** Anything that has the potential to exploit a vulnerability. Threats can be intentional (e.g., hackers) or unintentional (e.g., natural disasters).
+
+8. **Results of an Attack on a Computer Network:**
+   - **Data Breach:** Unauthorized access and theft of sensitive information.
+   - **Service Disruption:** Attackers may disrupt services, causing downtime and financial losses.
+   - **Malware Infections:** Installation of malicious software that can damage systems or steal information.
+   - **Reputation Damage:** A successful attack can harm an organization's reputation and trustworthiness.
+   - **Financial Loss:** Incurred through theft, extortion, or costs associated with recovery and remediation.
+
+Implementing a robust cybersecurity strategy involves a combination of technology, policies, and user awareness to mitigate these risks and respond effectively to potential threats.
